@@ -226,7 +226,7 @@ main {
 .jumbotron-image {
 	height: 20vh;
 	width: 20vw;
-	background-image:url("ccc.jpeg");
+	background-image:url("ccc.jpg");
 		
 	background-size: cover;
 }
