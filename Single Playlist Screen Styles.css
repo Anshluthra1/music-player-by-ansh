@@ -231,7 +231,7 @@ main {
 			transparent,
 			rgba(20, 27, 65, 1)
 		),
-		url("media/latest english/cc.jpg");
+		url("cc.jpg");
 	background-size: cover;
 }
 /* right part of the jumbotron */
