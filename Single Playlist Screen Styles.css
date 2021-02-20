@@ -229,7 +229,8 @@ main {
 	background-image: linear-gradient(
 			to bottom,
 			transparent,
-			rgba(20, 27, 65, 1));
+			rgba(20, 27, 65, 1)
+		);
 		url("cc.jpg");
 		
 	background-size: cover;
