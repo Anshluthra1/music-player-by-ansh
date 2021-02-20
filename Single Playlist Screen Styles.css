@@ -224,7 +224,7 @@ main {
 }
 /* image insider jumbotron */
 .jumbotron-image {
-	height: 20vh;
+	height: 20vw;
 	width: 20vw;
 	background-image:url("ccc.jpg");
 		
