@@ -224,9 +224,9 @@ main {
 }
 /* image insider jumbotron */
 .jumbotron-image {
-	height: 20vw;
+	height: 20vh;
 	width: 20vw;
-	background-image:url("cc.jpg");
+	background-image:url(cc.jpeg);
 		
 	background-size: cover;
 }
