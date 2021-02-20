@@ -229,8 +229,9 @@ main {
 	background-image: linear-gradient(
 			to bottom,
 			transparent,
-			rgba(20, 27, 65, 1));
-		url("cc.jpg");
+			rgba(20, 27, 65, 1),
+		url("cc.jpg")
+		);
 	background-size: cover;
 }
 /* right part of the jumbotron */
